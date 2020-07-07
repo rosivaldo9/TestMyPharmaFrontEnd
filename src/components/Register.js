@@ -5,19 +5,35 @@ class Register extends Component {
   constructor() {
     super()
     this.state = {
+      Register:{
       nome: '',
       email: '',
       password: '',
       errors: {}
     }
+  }
 
     this.onChange = this.onChange.bind(this)
     this.onSubmit = this.onSubmit.bind(this)
   }
 
-  onChange(e) {
-    this.setState({ [e.target.name]: e.target.value })
-  }
+  onChange(event) {
+    const target = event.target;
+    const name = target.name;     //pega o nome do camo atravez do target
+    const value = target.value;   //pega o valor do camo atravez do target
+
+    this.setState(prevState => ({
+        Register: { ...prevState.Register, [name]: value } //atualizando o estado do campo com o value
+  }))}
+
+  /*handleInputChange = event => {
+    const target = event.target;
+    const name = target.name;     //pega o nome do camo atravez do target
+    const value = target.value;   //pega o valor do camo atravez do target
+
+    this.setState(prevState => ({
+        Produto: { ...prevState.Produto, [name]: value } //atualizando o estado do campo com o value
+    }));*/
   onSubmit(e) {
     e.preventDefault()
 
