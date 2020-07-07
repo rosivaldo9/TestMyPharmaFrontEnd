@@ -30,16 +30,13 @@ export default class indexPA extends Component {
 }
 
 function filtro(props) {
+    var t = []
+    for (var i = 0; i < props.length; i++) {
+        t.push(props[i]);
+        t[i]["detalhes"] = <Link to={`/detalhesCategoria/${props[i]["_id"]}`}>Detalhes</Link>
+    }
 
-
-
- var t = []
-   for(var i =0; i<props.length; i++){
-    t.push(props[i]);
-    t[i]["detalhes"]= <Link to={`/detalhesCategoria/${props[i]["_id"]}`}>Detalhes</Link>
-}
- 
-   return t;
+    return t;
 }
 
 

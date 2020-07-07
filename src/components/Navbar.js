@@ -5,9 +5,8 @@ class Landing extends Component {
   logOut(e) {
     e.preventDefault()
     localStorage.removeItem('usertoken')
-    this.props.history.push(`/profile`)
+    this.props.history.push(`/`)
   }
-
   render() {
     const loginRegLink = (
       <ul className="navbar-nav">
@@ -28,7 +27,7 @@ class Landing extends Component {
     const userLink = (
       <ul className="navbar-nav">
         <li className="nav-item">
-          <Link to="/profile" className="nav-link">
+          <Link to="/profille" className="nav-link">
             User
           </Link>
         </li>

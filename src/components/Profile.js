@@ -1,7 +1,6 @@
 import React, { Component } from 'react'
 import jwt_decode from 'jwt-decode'
-import {Link, BrowserRouter as Router, Switch, Route} from 'react-router-dom';
-
+import { Link, withRouter } from 'react-router-dom'
 
 class Profile extends Component {
   constructor() {
@@ -12,6 +11,7 @@ class Profile extends Component {
       errors: {}
     }
   }
+
   componentDidMount() {
     const token = localStorage.usertoken
     const decoded = jwt_decode(token)
@@ -23,7 +23,6 @@ class Profile extends Component {
 
   render() {
     return (
- 
       <div className="container">
         <div className="jumbotron mt-5">
           <div className="col-sm-8 mx-auto">
@@ -32,7 +31,7 @@ class Profile extends Component {
           <table className="table col-md-6 mx-auto">
             <tbody>
               <tr>
-                <td>Fist Name</td>
+                <td>Last Name</td>
                 <td>{this.state.nome}</td>
               </tr>
               <tr>
@@ -40,18 +39,15 @@ class Profile extends Component {
                 <td>{this.state.email}</td>
               </tr>
               <tr>
-                <td>Email</td>
-                <td>
-                <Link to="/cadastro"><a href="#" className="list-group-item list-group-item-action but aa">Acessar Sistema</a></Link></td>
+                <td></td>
+                <td><Link to="/cadastro">Click no aki para ir paro sistema</Link></td>
               </tr>
-
-
+              
             </tbody>
           </table>
-          
         </div>
       </div>
-    );
+    )
   }
 }
 

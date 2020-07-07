@@ -32,8 +32,8 @@ export const login = user => {
 
 export const getProfile = user => {
   return axios
-    .get('sistema/cadastro', {
-    headers: { Authorization: ` ${this.getToken()}` }
+    .get('sistema/profile', {
+   /* headers: { Authorization: ` ${this.getToken()}` }*/
     })
     .then(response => {
       console.log(response)
