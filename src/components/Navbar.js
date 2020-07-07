@@ -20,6 +20,7 @@ class Landing extends Component {
           <Link to="/register" className="nav-link">
             Register
           </Link>
+          
         </li>
       </ul>
     )
