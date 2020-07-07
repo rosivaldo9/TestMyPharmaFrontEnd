@@ -9,6 +9,8 @@ export const register = newUser => {
     })
     .then(response => {
       console.log('Registered')
+    }).catch(err => {
+      console.log("error:  "+ err)
     })
 }
 
