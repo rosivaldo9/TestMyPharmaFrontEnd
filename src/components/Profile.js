@@ -23,36 +23,6 @@ class Profile extends Component {
 
   render() {
     return (
-      /*
-      
-      <div className="container-fluid t1">
-      <Router>
-        <div className="row">
-          <div className="col-lg-2 m ">
-            <div className="gbutões sidebar">
-              <Link to="/finaceiro"><a href="#" className="list-group-item list-group-item-action but aa">Padrinhos</a></Link>
-            </div>
-          </div>
-          <div className="col-lg-2  "></div>
-          <div className="col-lg-10 main">
-            <div className="container-fluid">
-              <div className="row">
-                <div className="col-lg-12">
-                  <div className="container-fluid">
-                  <Switch>
-                        <Route  path="/finaceiro" component={Finaceiro} />
-                    </Switch>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </Router>
-    </div >
-    */
-
-
  
       <div className="container">
         <div className="jumbotron mt-5">
