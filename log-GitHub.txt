@@ -1,0 +1,888 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Experimente a nova plataforma cruzada PowerShell https://aka.ms/pscore6
+
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git init
+Initialized empty Git repository in C:/Users/rosiv/OneDrive/Área de Trabalho/testMyPharma/TestMyPharmaFrontEnd/.git/
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git add .
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/acorn.      
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/acorn.ps1.  
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/ansi-html.  
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/ansi-html.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/atob.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/atob.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/babylon.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/babylon.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/browserslist.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/browserslist.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/cssesc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/cssesc.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/csso.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/csso.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/detect.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/detect-port.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/detect-port.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/detect.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/errno.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/errno.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/escodegen.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/escodegen.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esgenerate.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esgenerate.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/eslint.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/eslint.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esparse.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esparse.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esvalidate.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/esvalidate.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/handlebars.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/handlebars.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/he.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/he.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/html-minifier.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/html-minifier.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/import-local-fixture.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/import-local-fixture.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/internal-ip.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/internal-ip.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/is-ci.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/is-ci.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jest.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jest-runtime.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jest-runtime.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jest.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/js-yaml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/js-yaml.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jsesc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/jsesc.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/json5.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/json5.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/loose-envify.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/loose-envify.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/miller-rabin.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/miller-rabin.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/mime.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/mime.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/mkdirp.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/mkdirp.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/multicast-dns.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/multicast-dns.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/rc.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/rc.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/react-scripts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/react-scripts.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/regjsparser.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/regjsparser.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/rimraf.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/rimraf.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sane.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sane.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/semver.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/semver.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sha.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sha.js.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-conv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-conv.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-sign.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-sign.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-verify.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sshpk-verify.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/strip-indent.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/strip-indent.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/svgo.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/svgo.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sw-precache.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/sw-precache.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/uglifyjs.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/uglifyjs.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/uuid.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/uuid.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/webpack.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/webpack-dev-server.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/webpack-dev-server.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/webpack.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/which.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/.bin/which.ps1.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/AsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/AwaitValue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/applyDecoratedDescriptor.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/arrayLikeToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/arrayWithHoles.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/arrayWithoutHoles.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/assertThisInitialized.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/asyncGeneratorDelegate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/asyncIterator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/asyncToGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/awaitAsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classCallCheck.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classNameTDZError.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateFieldDestructureSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateFieldGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateFieldLooseBase.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateFieldLooseKey.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateFieldSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateMethodGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classPrivateMethodSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classStaticPrivateFieldSpecSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classStaticPrivateMethodGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/classStaticPrivateMethodSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/construct.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/createClass.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/createForOfIteratorHelper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/createForOfIteratorHelperLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/createSuper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/decorate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/defaults.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/defineEnumerableProperties.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/defineProperty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/AsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/AwaitValue.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/applyDecoratedDescriptor.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/arrayLikeToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/arrayWithHoles.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/arrayWithoutHoles.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/assertThisInitialized.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/asyncGeneratorDelegate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/asyncIterator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/asyncToGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/awaitAsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classCallCheck.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classNameTDZError.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateFieldDestructureSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateFieldGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseBase.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateFieldLooseKey.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateFieldSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateMethodGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classPrivateMethodSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classStaticPrivateFieldSpecSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodGet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/classStaticPrivateMethodSet.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/construct.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/createClass.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/createForOfIteratorHelperLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/createSuper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/decorate.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/defaults.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/defineEnumerableProperties.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/defineProperty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/extends.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/get.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/getPrototypeOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/inherits.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/inheritsLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/initializerDefineProperty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/initializerWarningHelper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/instanceof.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/interopRequireDefault.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/interopRequireWildcard.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/isNativeFunction.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/isNativeReflectConstruct.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/iterableToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/iterableToArrayLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/iterableToArrayLimitLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/jsx.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/maybeArrayLike.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/newArrowCheck.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/nonIterableRest.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/nonIterableSpread.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/objectDestructuringEmpty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/objectSpread.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/objectSpread2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/objectWithoutProperties.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/objectWithoutPropertiesLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/possibleConstructorReturn.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/readOnlyError.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/set.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/setPrototypeOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/skipFirstGeneratorNext.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/slicedToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/slicedToArrayLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/superPropBase.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteral.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/taggedTemplateLiteralLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/tdz.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/temporalRef.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/toArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/toConsumableArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/toPrimitive.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/toPropertyKey.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/typeof.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/unsupportedIterableToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/wrapAsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/wrapNativeSuper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/esm/wrapRegExp.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/extends.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/get.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/getPrototypeOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/inherits.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/inheritsLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/initializerDefineProperty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/initializerWarningHelper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/instanceof.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/interopRequireDefault.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/interopRequireWildcard.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/isNativeFunction.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/isNativeReflectConstruct.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/iterableToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/iterableToArrayLimit.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/iterableToArrayLimitLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/jsx.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/maybeArrayLike.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/newArrowCheck.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/nonIterableRest.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/nonIterableSpread.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/objectDestructuringEmpty.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/objectSpread.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/objectSpread2.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/objectWithoutProperties.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/objectWithoutPropertiesLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/possibleConstructorReturn.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/readOnlyError.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/set.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/setPrototypeOf.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/skipFirstGeneratorNext.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/slicedToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/slicedToArrayLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/superPropBase.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/taggedTemplateLiteral.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/taggedTemplateLiteralLoose.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/tdz.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/temporalRef.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/temporalUndefined.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/toArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/toConsumableArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/toPrimitive.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/toPropertyKey.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/typeof.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/unsupportedIterableToArray.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/wrapAsyncGenerator.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/wrapNativeSuper.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/helpers/wrapRegExp.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@babel/runtime/regenerator/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/LICENSE.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/build/index.d.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/build/index.esm.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/build/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/build/moment-utils.d.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/rollup.config.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/src/index.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/src/moment-utils.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/tsconfig.declaration.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@date-io/moment/type/index.d.ts.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/LICENSE.txt.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/all.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/all.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/brands.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/brands.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/fontawesome.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/fontawesome.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/regular.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/regular.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/solid.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/solid.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/svg-with-js.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/svg-with-js.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/v4-shims.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/css/v4-shims.min.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/all.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/all.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/brands.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/brands.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/conflict-detection.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/conflict-detection.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/fontawesome.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/fontawesome.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/regular.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/regular.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/solid.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/solid.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/v4-shims.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/js/v4-shims.min.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_animated.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_bordered-pulled.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_core.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_fixed-width.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_icons.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_larger.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_list.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_mixins.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_rotated-flipped.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_screen-reader.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_shims.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_stacked.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/_variables.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/brands.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/fontawesome.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/regular.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/solid.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/less/v4-shims.less.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/metadata/categories.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/metadata/icons.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/metadata/shims.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/metadata/sponsors.yml.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_animated.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_bordered-pulled.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_core.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_fixed-width.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_icons.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_larger.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_list.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_mixins.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_rotated-flipped.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_screen-reader.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_shims.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_stacked.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/_variables.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/brands.scss.
+The file will have its original line endings in your working directory
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/solid.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/scss/v4-shims.scss.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/sprites/brands.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/sprites/regular.svg.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in node_modules/@fortawesome/fontawesome-free/sprites/solid.svg.
+The file will have its original line endings in your working directory
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd>
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git init
+Initialized empty Git repository in C:/Users/rosiv/OneDrive/Área de Trabalho/testMyPharma/TestMyPharmaFrontEnd/.git/
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git add .
+warning: LF will be replaced by CRLF in README.md.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package-lock.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in package.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/index.html.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in public/manifest.json.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/App.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/Landing.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/Login.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/Navbar.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/Profile.js.
+warning: LF will be replaced by CRLF in src/components/Register.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/components/UserFunctions.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/controls/TextFieldGroup.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.css.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/index.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/registerServiceWorker.js.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in src/serviceWorker.js.
+The file will have its original line endings in your working directory
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git status
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   .gitignore
+        new file:   .vscode/launch.json
+        new file:   README.md
+        new file:   consoleNavegador.txt
+        new file:   log-GitHub.txt
+        new file:   log1.txt
+        new file:   log2.txt
+        new file:   log3.txt
+        new file:   log4.txt
+        new file:   package-lock.json
+        new file:   package.json
+        new file:   public/favicon.ico
+        new file:   public/index.html
+        new file:   public/manifest.json
+        new file:   src/App.css
+        new file:   src/App.js
+        new file:   src/Categoria/deleteCategoria/delete.css
+        new file:   src/Categoria/deleteCategoria/deleteCategoria.js
+        new file:   src/Categoria/detailsCategoria/detail.css
+        new file:   src/Categoria/detailsCategoria/detailsCategoria.js
+        new file:   src/Categoria/indexCategoria/Table.js
+        new file:   src/Categoria/indexCategoria/index.css
+        new file:   src/Categoria/indexCategoria/indexCategoria.js
+        new file:   src/Categoria/indexCategoria/indexDespesa.js
+        new file:   src/Categoria/indexCategoria/test.js
+        new file:   src/Categoria/insertCategoria/insert.css
+        new file:   src/Categoria/insertCategoria/insertCategoria.js
+        new file:   src/Categoria/updatCategoria/updatCategoria.js
+        new file:   src/Categoria/updatCategoria/update.css
+        new file:   src/Marca/deleteMarca/delete.css
+        new file:   src/Marca/deleteMarca/deleteMarca.js
+        new file:   src/Marca/detailsMarca/detailsMarca.js
+        new file:   src/Marca/indexMarca/Table.js
+        new file:   src/Marca/indexMarca/index.css
+        new file:   src/Marca/indexMarca/indexMarca.js
+        new file:   src/Marca/insertMarca/insert.css
+        new file:   src/Marca/insertMarca/insertMarca.js
+        new file:   src/Marca/updatMarca/updatMarca.js
+        new file:   src/Produto/deleteProduto/delete.css
+        new file:   src/Produto/deleteProduto/deleteProduto.js
+        new file:   src/Produto/detailsProduto/detailsProduto.js
+        new file:   src/Produto/indexProduto/Table.js
+        new file:   src/Produto/indexProduto/indexProduto.js
+        new file:   src/Produto/insertProduto/insert.css
+        new file:   src/Produto/insertProduto/insertProduto.js
+        new file:   src/Produto/updatProduto/updatProduto.js
+        new file:   src/Produto/updatProduto/update.css
+        new file:   src/components/Landing.js
+        new file:   src/components/Login.js
+        new file:   src/components/Navbar.js
+        new file:   src/components/Register.js
+        new file:   src/components/UserFunctions.js
+        new file:   src/controls/TextFieldGroup.js
+        new file:   src/index.css
+        new file:   src/index.js
+        new file:   src/registerServiceWorker.js
+        new file:   src/routes.js
+        new file:   src/service/service.js
+        new file:   src/serviceWorker.js
+        new file:   src/template/SideBar.js
+        new file:   src/template/index.js
+        new file:   src/template/navBar.js
+        new file:   src/template/style.css
+
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git commit -m "Primeiro commit da aplcação"
+[master (root-commit) 9101aab] Primeiro commit da aplcação
+ 64 files changed, 22585 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 .vscode/launch.json
+ create mode 100644 README.md
+ create mode 100644 consoleNavegador.txt
+ create mode 100644 log-GitHub.txt
+ create mode 100644 log1.txt
+ create mode 100644 log2.txt
+ create mode 100644 log3.txt
+ create mode 100644 log4.txt
+ create mode 100644 package-lock.json
+ create mode 100644 package.json
+ create mode 100644 public/favicon.ico
+ create mode 100644 public/index.html
+ create mode 100644 public/manifest.json
+ create mode 100644 src/App.css
+ create mode 100644 src/App.js
+ create mode 100644 src/Categoria/deleteCategoria/delete.css
+ create mode 100644 src/Categoria/deleteCategoria/deleteCategoria.js
+ create mode 100644 src/Categoria/detailsCategoria/detail.css
+ create mode 100644 src/Categoria/detailsCategoria/detailsCategoria.js
+ create mode 100644 src/Categoria/indexCategoria/Table.js
+ create mode 100644 src/Categoria/indexCategoria/index.css
+ create mode 100644 src/Categoria/indexCategoria/indexCategoria.js
+ create mode 100644 src/Categoria/indexCategoria/indexDespesa.js
+ create mode 100644 src/Categoria/indexCategoria/test.js
+ create mode 100644 src/Categoria/insertCategoria/insert.css
+ create mode 100644 src/Categoria/insertCategoria/insertCategoria.js
+ create mode 100644 src/Categoria/updatCategoria/updatCategoria.js
+ create mode 100644 src/Categoria/updatCategoria/update.css
+ create mode 100644 src/Marca/deleteMarca/delete.css
+ create mode 100644 src/Marca/deleteMarca/deleteMarca.js
+ create mode 100644 src/Marca/detailsMarca/detailsMarca.js
+ create mode 100644 src/Marca/indexMarca/Table.js
+ create mode 100644 src/Marca/indexMarca/index.css
+ create mode 100644 src/Marca/indexMarca/indexMarca.js
+ create mode 100644 src/Marca/insertMarca/insert.css
+ create mode 100644 src/Marca/insertMarca/insertMarca.js
+ create mode 100644 src/Marca/updatMarca/updatMarca.js
+ create mode 100644 src/Produto/deleteProduto/delete.css
+ create mode 100644 src/Produto/deleteProduto/deleteProduto.js
+ create mode 100644 src/Produto/detailsProduto/detailsProduto.js
+ create mode 100644 src/Produto/indexProduto/Table.js
+ create mode 100644 src/Produto/indexProduto/indexProduto.js
+ create mode 100644 src/Produto/insertProduto/insert.css
+ create mode 100644 src/Produto/insertProduto/insertProduto.js
+ create mode 100644 src/Produto/updatProduto/updatProduto.js
+ create mode 100644 src/Produto/updatProduto/update.css
+ create mode 100644 src/components/Landing.js
+ create mode 100644 src/components/Login.js
+ create mode 100644 src/components/Navbar.js
+ create mode 100644 src/components/Register.js
+ create mode 100644 src/components/UserFunctions.js
+ create mode 100644 src/controls/TextFieldGroup.js
+ create mode 100644 src/index.css
+ create mode 100644 src/index.js
+ create mode 100644 src/registerServiceWorker.js
+ create mode 100644 src/routes.js
+ create mode 100644 src/service/service.js
+ create mode 100644 src/serviceWorker.js
+ create mode 100644 src/template/SideBar.js
+ create mode 100644 src/template/index.js
+ create mode 100644 src/template/navBar.js
+ create mode 100644 src/template/style.css
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git remote add origin https://github.com/rosivaldo9/TestMyPharmaFrontEnd.git
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> git push -u origin master
+Enumerating objects: 85, done.
+Counting objects: 100% (85/85), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (77/77), done.
+Writing objects: 100% (85/85), 183.27 KiB | 2.29 MiB/s, done.
+Total 85 (delta 19), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (19/19), done.
+To https://github.com/rosivaldo9/TestMyPharmaFrontEnd.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testMyPharma\TestMyPharmaFrontEnd> 

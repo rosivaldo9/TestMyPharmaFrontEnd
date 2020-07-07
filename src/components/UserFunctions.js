@@ -2,7 +2,7 @@ import axios from 'axios'
 
 export const register = newUser => {
   return axios
-    .post('sistema/register', {
+    .post('/sistema/register', {
       nome: newUser.nome,
       email: newUser.email,
       password: newUser.password
@@ -14,7 +14,7 @@ export const register = newUser => {
 
 export const login = user => {
   return axios
-    .post('sistema/login', {
+    .post('/sistema/login', {
       email: user.email,
       password: user.password
     })
@@ -30,7 +30,7 @@ export const login = user => {
 
 export const getProfile = user => {
   return axios
-    .get('sistema/profile', {
+    .get('/sistema/profile', {
       //headers: { Authorization: ` ${this.getToken()}` }
     })
     .then(response => {
