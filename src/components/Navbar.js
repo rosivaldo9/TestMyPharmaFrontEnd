@@ -5,7 +5,7 @@ class Landing extends Component {
   logOut(e) {
     e.preventDefault()
     localStorage.removeItem('usertoken')
-    this.props.history.push(`/`)
+    this.props.history.push(`/profile`)
   }
 
   render() {
@@ -20,7 +20,7 @@ class Landing extends Component {
           <Link to="/register" className="nav-link">
             Register
           </Link>
-          
+
         </li>
       </ul>
     )
