@@ -1,0 +1,1818 @@
+Copyright (C) Microsoft Corporation. Todos os direitos reservados.
+
+Failed to compile.
+
+Failed to compile.
+
+./src/template/SideBar.js
+  Line 26:  'People' is not defined              react/jsx-no-undef
+  Line 27:  'People' is not defined              react/jsx-no-undef
+  Line 28:  'People' is not defined              react/jsx-no-undef
+  Line 29:  'People' is not defined              react/jsx-no-undef
+  Line 30:  'People' is not defined              react/jsx-no-undef
+Failed to compile.
+
+./src/template/SideBar.js
+  Line 26:  'People' is not defined              react/jsx-no-undef
+Failed to compile.
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+  Line 4:   'Nav' is defined but never used                                                   no-unused-vars
+  Line 5:   'Sad' is defined but never used                                                   no-unused-vars
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+  Line 4:   'Nav' is defined but never used                                                   no-unused-vars
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Failed to compile.
+
+./src/components/Profile.js
+Module build failed: C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\src\components\Profile.js: Duplicate declaration "Link"
+
+  4 | 
+  5 | import Finaceiro from '../Despesa/index';
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 23:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 24:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+Failed to compile.
+
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 17:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 20:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Link' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/SideBar.js
+  Line 10:  'Switch' is defined but never used                                                no-unused-vars       
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/SideBar.js
+  Line 10:  'Switch' is defined but never used                                                no-unused-vars       
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 14:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/SideBar.js
+  Line 10:  'Switch' is defined but never used                                                no-unused-vars       
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Despesa/index.js
+  Line 11:  'Switch' is defined but never used  no-unused-vars
+  Line 11:  'Link' is defined but never used    no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 12:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/SideBar.js
+  Line 10:  'Switch' is defined but never used                                                no-unused-vars       
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 12:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/SideBar.js
+  Line 10:  'Switch' is defined but never used                                                no-unused-vars       
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 12:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/App.js
+  Line 10:  'Sadbar' is defined but never used  no-unused-vars
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 12:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/Despesa/header.js
+  Line 12:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/SideBar.js
+  Line 11:  'Router' is defined but never used                                                no-unused-vars
+  Line 25:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Failed to compile.
+
+./src/Despesa/indexDespesa/data.js
+Module not found: Can't resolve 'mdbreact' in 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\src\Despesa\indexDespesa'
+^CDeseja finalizar o arquivo em lotes (S/N)? Deseja finalizar o arquivo em lotes (S/N)? s
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront> npm install mdbreact 
+npm WARN deprecated popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+npm WARN deprecated material-ui-pickers@2.2.4: You can now upgrade to @material-ui/pickers. Documentation for v2 can be found at https://material-ui-pickers-v2.dmtr-kovalenko.now.sh/
+npm WARN deprecated core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual 
+version of core-js@3.
+npm WARN ajv-keywords@3.5.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN sass-loader@8.0.2 requires a peer of webpack@^4.36.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
+npm ERR! code EPERM
+npm ERR! syscall rename
+npm ERR! path C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json.1020562909
+npm ERR! dest C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json
+npm ERR! errno -4048
+npm ERR! Error: EPERM: operation not permitted, rename 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json.1020562909' -> 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json'
+npm ERR!  [OperationalError: EPERM: operation not permitted, rename 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json.1020562909' -> 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json'] {
+npm ERR!   cause: [Error: EPERM: operation not permitted, rename 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json.1020562909' -> 'C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront\node_modules\@types\react\package.json'] {
+npm ERR!     errno: -4048,
+npm ERR!     code: 'EPERM',
+npm ERR!     syscall: 'rename',
+npm ERR!     path: 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json.1020562909',
+npm ERR!     dest: 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json'
+npm ERR!   },
+npm ERR!   stack: "Error: EPERM: operation not permitted, rename 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json.1020562909' -> 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json'",
+npm ERR!   errno: -4048,
+npm ERR!   code: 'EPERM',
+npm ERR!   syscall: 'rename',
+npm ERR!   path: 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json.1020562909',
+npm ERR!   dest: 'C:\\Users\\rosiv\\OneDrive\\Área de Trabalho\\testeFront\\node_modules\\@types\\react\\package.json',
+npm ERR!   parent: 'testeFront'
+npm ERR! }
+npm ERR!
+npm ERR! The operation was rejected by your operating system.
+npm ERR! or that you lack permissions to access it.
+npm ERR!
+npm ERR! If you believe this might be a permissions issue, please double-check the
+npm ERR! permissions of the file and its containing directories, or try running
+npm ERR! the command again as root/Administrator.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     C:\Users\rosiv\AppData\Roaming\npm-cache\_logs\2020-07-06T19_48_27_498Z-debug.log
+PS C:\Users\rosiv\OneDrive\Área de Trabalho\testeFront> npm install mdbreact
+npm WARN deprecated material-ui-pickers@2.2.4: You can now upgrade to @material-ui/pickers. Documentation for v2 can be found at https://material-ui-pickers-v2.dmtr-kovalenko.now.sh/
+npm WARN deprecated popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+npm WARN deprecated core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual 
+version of core-js@3.
+npm WARN ajv-keywords@3.5.0 requires a peer of ajv@^6.9.1 but none is installed. You must install peer dependencies yourself.
+npm WARN sass-loader@8.0.2 requires a peer of webpack@^4.36.0 || ^5.0.0 but none is installed. You must install peer dependencies yourself.
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@2.1.3 (node_modules\chokidar\node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@2.1.3: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+npm WARN optional SKIPPING OPTIONAL DEPENDENCY: fsevents@1.2.13 (node_modules\fsevents):
+npm WARN notsup SKIPPING OPTIONAL DEPENDENCY: Unsupported platform for fsevents@1.2.13: wanted {"os":"darwin","arch":"any"} (current: {"os":"win32","arch":"x64"})
+
++ mdbreact@4.27.0
+added 14 packages from 39 contributors and audited 1478 packages in 47.751s
+
+21 packages are looking for funding
+  run `npm fund` for details
+
+found 320 vulnerabilities (309 low, 5 moderate, 6 high)
+  run `npm audit fix` to fix them, or `npm audit` for detail
+
+
+  
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 3:   'Link' is defined but never used                  no-unused-vars
+  Line 23:  'Produto' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutoInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                   no-unused-vars
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 3:   'Link' is defined but never used                  no-unused-vars
+  Line 23:  'Produto' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutoInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                   no-unused-vars
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 3:   'Link' is defined but never used                  no-unused-vars
+  Line 23:  'Produto' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutoInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                   no-unused-vars
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 26:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 27:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 3:   'Link' is defined but never used                  no-unused-vars
+  Line 23:  'Produto' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutoInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                   no-unused-vars
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+
+Proxy error: Could not proxy request /sistema/login from localhost:3000 to http://localhost:5000/.
+See https://nodejs.org/api/errors.html#errors_common_system_errors for more information (ECONNREFUSED).
+

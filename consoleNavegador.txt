@@ -1,0 +1,169 @@
+react-dom.development.js:88 Warning: componentWillMount has been renamed, and is not recommended for use. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move code with side effects to componentDidMount, and set initial state in the constructor.
+* Rename componentWillMount to UNSAFE_componentWillMount to suppress this warning in non-strict mode. In React 17.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.
+
+Please update the following components: BrowserRouter, Route, Router
+printWarning @ react-dom.development.js:88
+react-dom.development.js:88 Warning: componentWillReceiveProps has been renamed, and is not recommended for use. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move data fetching code or side effects to componentDidUpdate.
+* If you're updating state whenever props change, refactor your code to use memoization techniques or move it to static getDerivedStateFromProps. Learn more at: https://fb.me/react-derived-state
+* Rename componentWillReceiveProps to UNSAFE_componentWillReceiveProps to suppress this warning in non-strict mode. In React 17.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.
+
+Please update the following components: Route, Router
+printWarning @ react-dom.development.js:88
+webpackHotDevClient.js:138 ./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+printWarnings @ webpackHotDevClient.js:138
+webpackHotDevClient.js:138 ./src/template/SideBar.js
+  Line 22:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+printWarnings @ webpackHotDevClient.js:138
+webpackHotDevClient.js:138 ./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+printWarnings @ webpackHotDevClient.js:138
+webpackHotDevClient.js:138 ./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+printWarnings @ webpackHotDevClient.js:138
+index.js:2178 Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    in a (at Profile.js:77)
+    in a (created by Link)
+    in Link (at Profile.js:77)
+    in td (at Profile.js:76)
+    in tr (at Profile.js:74)
+    in tbody (at Profile.js:65)
+    in table (at Profile.js:64)
+    in div (at Profile.js:60)
+    in div (at Profile.js:59)
+    in Profile (created by Route)
+    in Route (at App.js:21)
+    in div (at App.js:18)
+    in div (at App.js:15)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at App.js:14)
+    in App (at src/index.js:7)
+__stack_frame_overlay_proxy_console__ @ index.js:2178
+index.js:2178 Warning: validateDOMNesting(...): <a> cannot appear as a descendant of <a>.
+    in a (at SideBar.js:22)
+    in a (created by Link)
+    in Link (at SideBar.js:22)
+    in div (at SideBar.js:21)
+    in div (at SideBar.js:20)
+    in div (at SideBar.js:19)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at SideBar.js:18)
+    in div (at SideBar.js:17)
+    in SideBar (at template/index.js:13)
+    in div (at template/index.js:11)
+    in App (created by Route)
+    in Route (at App.js:22)
+    in div (at App.js:18)
+    in div (at App.js:15)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at App.js:14)
+    in App (at src/index.js:7)
+__stack_frame_overlay_proxy_console__ @ index.js:2178
+react-dom.development.js:88 Warning: componentWillMount has been renamed, and is not recommended for use. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move code with side effects to componentDidMount, and set initial state in the constructor.
+* Rename componentWillMount to UNSAFE_componentWillMount to suppress this warning in non-strict mode. In React 17.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.
+
+Please update the following components: Switch
+printWarning @ react-dom.development.js:88
+react-dom.development.js:88 Warning: componentWillReceiveProps has been renamed, and is not recommended for use. See https://fb.me/react-unsafe-component-lifecycles for details.
+
+* Move data fetching code or side effects to componentDidUpdate.
+* If you're updating state whenever props change, refactor your code to use memoization techniques or move it to static getDerivedStateFromProps. Learn more at: https://fb.me/react-derived-state
+* Rename componentWillReceiveProps to UNSAFE_componentWillReceiveProps to suppress this warning in non-strict mode. In React 17.x, only the UNSAFE_ name will work. To rename all deprecated lifecycles to their new names, you can run `npx react-codemod rename-unsafe-lifecycles` in your project source folder.
+
+Please update the following components: Switch
+printWarning @ react-dom.development.js:88
+insertDespesa.js:46 Uncaught TypeError: Cannot read property 'nome' of undefined
+    at Marca.render (insertDespesa.js:46)
+    at finishClassComponent (react-dom.development.js:17160)
+    at updateClassComponent (react-dom.development.js:17110)
+    at beginWork (react-dom.development.js:18620)
+    at HTMLUnknownElement.callCallback (react-dom.development.js:188)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:237)
+    at invokeGuardedCallback (react-dom.development.js:292)
+    at beginWork$1 (react-dom.development.js:23203)
+    at performUnitOfWork (react-dom.development.js:22157)
+    at workLoopSync (react-dom.development.js:22130)
+    at performSyncWorkOnRoot (react-dom.development.js:21756)
+    at react-dom.development.js:11089
+    at unstable_runWithPriority (scheduler.development.js:653)
+    at runWithPriority$1 (react-dom.development.js:11039)
+    at flushSyncCallbackQueueImpl (react-dom.development.js:11084)
+    at flushSyncCallbackQueue (react-dom.development.js:11072)
+    at flushPendingDiscreteUpdates (react-dom.development.js:21847)
+    at flushDiscreteUpdates (react-dom.development.js:21827)
+    at finishEventHandler (react-dom.development.js:764)
+    at batchedEventUpdates (react-dom.development.js:798)
+    at dispatchEventForLegacyPluginEventSystem (react-dom.development.js:3568)
+    at attemptToDispatchEvent (react-dom.development.js:4267)
+    at dispatchEvent (react-dom.development.js:4189)
+    at unstable_runWithPriority (scheduler.development.js:653)
+    at runWithPriority$1 (react-dom.development.js:11039)
+    at discreteUpdates$1 (react-dom.development.js:21887)
+    at discreteUpdates (react-dom.development.js:806)
+    at dispatchDiscreteEvent (react-dom.development.js:4168)
+index.js:2178 The above error occurred in the <Marca> component:
+    in Marca (created by Route)
+    in Route (at SideBar.js:33)
+    in Switch (at SideBar.js:32)
+    in div (at SideBar.js:30)
+    in div (at SideBar.js:29)
+    in div (at SideBar.js:28)
+    in div (at SideBar.js:27)
+    in div (at SideBar.js:26)
+    in div (at SideBar.js:19)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at SideBar.js:18)
+    in div (at SideBar.js:17)
+    in SideBar (at template/index.js:13)
+    in div (at template/index.js:11)
+    in App (created by Route)
+    in Route (at App.js:22)
+    in div (at App.js:18)
+    in div (at App.js:15)
+    in Router (created by BrowserRouter)
+    in BrowserRouter (at App.js:14)
+    in App (at src/index.js:7)
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://fb.me/react-error-boundaries to learn more about error boundaries.
+__stack_frame_overlay_proxy_console__ @ index.js:2178
+react-dom.development.js:11102 Uncaught TypeError: Cannot read property 'nome' of undefined
+    at Marca.render (insertDespesa.js:46)
+    at finishClassComponent (react-dom.development.js:17160)
+    at updateClassComponent (react-dom.development.js:17110)
+    at beginWork (react-dom.development.js:18620)
+    at HTMLUnknownElement.callCallback (react-dom.development.js:188)
+    at Object.invokeGuardedCallbackDev (react-dom.development.js:237)
+    at invokeGuardedCallback (react-dom.development.js:292)
+    at beginWork$1 (react-dom.development.js:23203)
+    at performUnitOfWork (react-dom.development.js:22157)
+    at workLoopSync (react-dom.development.js:22130)
+    at performSyncWorkOnRoot (react-dom.development.js:21756)
+    at react-dom.development.js:11089
+    at unstable_runWithPriority (scheduler.development.js:653)
+    at runWithPriority$1 (react-dom.development.js:11039)
+    at flushSyncCallbackQueueImpl (react-dom.development.js:11084)
+    at flushSyncCallbackQueue (react-dom.development.js:11072)
+    at flushPendingDiscreteUpdates (react-dom.development.js:21847)
+    at flushDiscreteUpdates (react-dom.development.js:21827)
+    at finishEventHandler (react-dom.development.js:764)
+    at batchedEventUpdates (react-dom.development.js:798)
+    at dispatchEventForLegacyPluginEventSystem (react-dom.development.js:3568)
+    at attemptToDispatchEvent (react-dom.development.js:4267)
+    at dispatchEvent (react-dom.development.js:4189)
+    at unstable_runWithPriority (scheduler.development.js:653)
+    at runWithPriority$1 (react-dom.development.js:11039)
+    at discreteUpdates$1 (react-dom.development.js:21887)
+    at discreteUpdates (react-dom.development.js:806)
+    at dispatchDiscreteEvent (react-dom.development.js:4168)

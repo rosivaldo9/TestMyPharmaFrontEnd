@@ -1,0 +1,1429 @@
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 17:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 31:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Failed to compile.
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used      no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used            no-unused-vars
+  Line 4:    'MDBModal' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used      no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used    no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used    no-unused-vars
+  Line 108:  Do not mutate state directly. Use setState()  react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used      no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used            no-unused-vars
+  Line 4:    'MDBModal' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used      no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used    no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used    no-unused-vars
+  Line 108:  Do not mutate state directly. Use setState()  react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used      no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used            no-unused-vars
+  Line 4:    'MDBModal' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used      no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used    no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used    no-unused-vars
+  Line 6:    'Categoria' is defined but never used         no-unused-vars
+  Line 108:  Do not mutate state directly. Use setState()  react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used      no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used            no-unused-vars
+  Line 4:    'MDBModal' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used      no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used    no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used    no-unused-vars
+  Line 6:    'Categoria' is defined but never used         no-unused-vars
+  Line 106:  Do not mutate state directly. Use setState()  react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used      no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used            no-unused-vars
+  Line 4:    'MDBModal' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used      no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used    no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used    no-unused-vars
+  Line 6:    'Categoria' is defined but never used         no-unused-vars
+  Line 106:  Do not mutate state directly. Use setState()  react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used            no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used                  no-unused-vars
+  Line 4:    'MDBModal' is defined but never used                no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used            no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used          no-unused-vars
+  Line 6:    'Categoria' is defined but never used               no-unused-vars
+  Line 40:   'Categoria' is assigned a value but never used      no-unused-vars
+  Line 40:   'CategoriaInfo' is assigned a value but never used  no-unused-vars
+  Line 107:  Do not mutate state directly. Use setState()        react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used            no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used                  no-unused-vars
+  Line 4:    'MDBModal' is defined but never used                no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used            no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used          no-unused-vars
+  Line 6:    'Categoria' is defined but never used               no-unused-vars
+  Line 40:   'Categoria' is assigned a value but never used      no-unused-vars
+  Line 40:   'CategoriaInfo' is assigned a value but never used  no-unused-vars
+  Line 107:  Do not mutate state directly. Use setState()        react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:    'MDBContainer' is defined but never used            no-unused-vars
+  Line 4:    'MDBBtn' is defined but never used                  no-unused-vars
+  Line 4:    'MDBModal' is defined but never used                no-unused-vars
+  Line 4:    'MDBModalBody' is defined but never used            no-unused-vars
+  Line 4:    'MDBModalHeader' is defined but never used          no-unused-vars
+  Line 4:    'MDBModalFooter' is defined but never used          no-unused-vars
+  Line 6:    'Categoria' is defined but never used               no-unused-vars
+  Line 40:   'Categoria' is assigned a value but never used      no-unused-vars
+  Line 40:   'CategoriaInfo' is assigned a value but never used  no-unused-vars
+  Line 107:  Do not mutate state directly. Use setState()        react/no-direct-mutation-state
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 4:   'MDBContainer' is defined but never used            no-unused-vars
+  Line 4:   'MDBBtn' is defined but never used                  no-unused-vars
+  Line 4:   'MDBModal' is defined but never used                no-unused-vars
+  Line 4:   'MDBModalBody' is defined but never used            no-unused-vars
+  Line 4:   'MDBModalHeader' is defined but never used          no-unused-vars
+  Line 4:   'MDBModalFooter' is defined but never used          no-unused-vars
+  Line 6:   'Categoria' is defined but never used               no-unused-vars
+  Line 40:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 40:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/Produto/insertDespesa/insertDespesa.js
+  Line 38:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 38:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 18:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 32:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 33:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 34:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 35:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Produto/indexDespesa/indexDespesaTest.js
+  Line 23:  'Produtos' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutosInfo' is assigned a value but never used  no-unused-vars
+  Line 55:  'btn' is defined but never used                    no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+./src/template/SideBar.js
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 37:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 38:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 39:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 40:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 41:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Produto/indexDespesa/indexDespesaTest.js
+  Line 23:  'Produtos' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutosInfo' is assigned a value but never used  no-unused-vars
+  Line 55:  'btn' is defined but never used                    no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 37:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 38:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 39:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 40:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 41:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Produto/indexDespesa/indexDespesaTest.js
+  Line 23:  'Produtos' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutosInfo' is assigned a value but never used  no-unused-vars
+  Line 55:  'btn' is defined but never used                    no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/Produto/updatDespesa/updatDespesa.js
+  Line 33:  Duplicate name 'componentDidMount'  no-dupe-class-members
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 37:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 38:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 39:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 40:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 41:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Produto/indexDespesa/indexDespesaTest.js
+  Line 23:  'Produtos' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutosInfo' is assigned a value but never used  no-unused-vars
+  Line 55:  'btn' is defined but never used                    no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/Produto/updatDespesa/updatDespesa.js
+  Line 33:  Duplicate name 'componentDidMount'  no-dupe-class-members
+
+Compiled with warnings.
+
+./src/template/navBar.js
+  Line 12:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+  Line 13:  Anchors must have content and the content must be accessible by a screen reader  jsx-a11y/anchor-has-content
+
+./src/template/SideBar.js
+  Line 22:  'Marca' is defined but never used                                                 no-unused-vars
+  Line 36:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 37:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 38:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 39:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 40:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+  Line 41:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash     
+
+./src/Categoria/indexDespesa/indexDespesaTest.js
+  Line 23:  'Categoria' is assigned a value but never used      no-unused-vars
+  Line 23:  'CategoriaInfo' is assigned a value but never used  no-unused-vars
+
+./src/Despesa/indexDespesa/indexDespesaTest.js
+  Line 23:  'Marca' is assigned a value but never used      no-unused-vars
+  Line 23:  'MarcaInfo' is assigned a value but never used  no-unused-vars
+  Line 50:  'btn' is defined but never used                 no-unused-vars
+
+./src/Produto/indexDespesa/indexDespesaTest.js
+  Line 23:  'Produtos' is assigned a value but never used      no-unused-vars
+  Line 23:  'ProdutosInfo' is assigned a value but never used  no-unused-vars
+  Line 55:  'btn' is defined but never used                    no-unused-vars
+
+./src/Categoria/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/deleteDespesa/deleteDespesa.js
+  Line 25:  Unexpected use of comma operator  no-sequences
+
+./src/Despesa/updatDespesa/updatDespesa.js
+  Line 30:  Unexpected use of comma operator  no-sequences
+
+./src/Categoria/updatDespesa/updatDespesa.js
+  Line 31:  Unexpected use of comma operator  no-sequences
+
+./src/Produto/updatDespesa/updatDespesa.js
+  Line 33:  Duplicate name 'componentDidMount'  no-dupe-class-members
+
+./src/components/Login.js
+  Line 3:  'Link' is defined but never used  no-unused-vars
+
+./src/components/Profile.js
+  Line 4:   'Finaceiro' is defined but never used                                             no-unused-vars
+  Line 5:   'Router' is defined but never used                                                no-unused-vars
+  Line 5:   'Switch' is defined but never used                                                no-unused-vars
+  Line 5:   'Route' is defined but never used                                                 no-unused-vars
+  Line 77:  Links must not point to "#". Use a more descriptive href or use a button instead  jsx-a11y/href-no-hash
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
